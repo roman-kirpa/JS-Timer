@@ -1,0 +1,27 @@
+.Timer{
+    background-color: cornflowerblue;
+    padding: 10px;
+    height: 100px;
+    width: 50%;
+}
+
+.Sector{
+    display: inline-block;
+    background-color: cornsilk;
+    height: 100%;
+    width: 20%;
+}
+
+.Sector > span {
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 50%; */
+    height: 70%;
+    text-align: center;
+}
+
+.Sector > div {
+    height: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 100%;
+}
